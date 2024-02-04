@@ -6,9 +6,11 @@
 
 * {
 	margin:0 auto;
+	font-family: sans-serif;
+	
 }
 @font-face {
- font-family: 'helvetica_ce_55_romanregular';
+ font-family: sans-serif;
  src: url('../fonts/helvetica_neue_ce_55_roman-webfont.eot');
  src: url('../fonts/helvetica_neue_ce_55_roman-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/helvetica_neue_ce_55_roman-webfont.woff2') format('woff2'), url('../fonts/helvetica_neue_ce_55_roman-webfont.woff') format('woff'), url('../fonts/helvetica_neue_ce_55_roman-webfont.ttf') format('truetype'), url('../fonts/helvetica_neue_ce_55_roman-webfont.svg#helvetica_ce_55_romanregular') format('svg');
  font-weight: normal;
@@ -22,7 +24,7 @@
  font-style: normal;
 }
 body {
-	font-family: 'helvetica_ce_55_romanregular';
+	font-family: sans-serif;
 }
 /*for-section-text-start-here*/
 ::selection {
@@ -132,7 +134,7 @@ p {
 	font-family: 'open_sansregular';
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
- font-family: 'helvetica_ce_55_romanregular';
+ font-family: sans-serif;
 }
 h1 {
 	color:#fff;
@@ -401,7 +403,7 @@ ul.nav li.active a:before {
 	text-align:center;
 }
 .heading h2 {
-	font-family: 'helvetica_ce_55_romanregular';
+	font-family: sans-serif;
 }
 .heading p {
 	padding:20px 0px;
